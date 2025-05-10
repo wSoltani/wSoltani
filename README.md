@@ -61,7 +61,7 @@ My focus is on creating tools and applications that not only deliver features bu
     *   Developing custom software solutions and tools for businesses, including the e-commerce platform mentioned above.
 *   **Lead Full-stack Developer/Engineer** @ Almaviva S.p.A *(Sept 2019 – March 2022)*
 
-*(For full details, please see my [LinkedIn Profile](https://linkedin.com/in/wsoltani))*
+*(For more details, please visit my [portfolio](https://wsoltani.github.io))*
 
 ---
 
