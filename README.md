@@ -68,4 +68,5 @@ My focus is on creating tools and applications that not only deliver features bu
 ## 📫 Get In Touch
 
 *   **LinkedIn:** [linkedin.com/in/wsoltani](https://linkedin.com/in/wsoltani)
+*   **DEV:** [dev.to/wsoltani](https://dev.to/wsoltani)
 *   **Email:** [wasoltani@gmail.com](mailto:wasoltani@gmail.com)
