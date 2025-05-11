@@ -44,14 +44,19 @@ Dive deeper into what I do and get your questions answered:
 ## 💡 Featured Projects
 
 ### ☁️ Quickplan - AI Meeting Notes Processor
-*   AI-powered tool to instantly transform raw meeting notes into structured summaries, action plans, etc.
-*   **Tech:** React, Cloudflare Workers, Cloudflare AI
+*   AI-powered tool to instantly transform raw meeting notes into structured formats (action plans, key points, summaries) via optimized prompts.
+*   **Tech:** React (Vite/TS), Tailwind CSS, Cloudflare Workers, Cloudflare AI.
 *   **Explore:** [quickplan.blueblood.tech](https://quickplan.blueblood.tech/)
 
-### 🛒 AI-Enhanced E-commerce Platform
-*   Custom e-commerce solution with AI semantic search, recommendations, and automated content generation.
-*   **Tech:** Spring Boot, Angular, Cloudflare Workers & Vectorize, Elasticsearch
-*   **Status:** Ongoing development for my company, Blueblood.
+### 📖 qmims - AI-Powered README Generator
+*   An AI CLI tool leveraging Amazon Q to auto-generate, update, and refine project READMEs. My first open-source npm package!
+*   **Tech:** Node.js, TypeScript, Amazon Q Developer, Next.js (for docs site).
+*   **Explore:** [Docs](https://qmims.vercel.app/) | [GitHub](https://github.com/wSoltani/qmims) | [npm](https://www.npmjs.com/package/qmims)
+
+### 🚀 Ongoing Explorations
+*   **Ideakit:** Interactive AI assistant/workspace for brainstorming and visualizing foundational brand elements (logo concepts, color palettes).
+*   **Memlane:** Secure, private digital journal focused on user control and data privacy for logging memories and dreams.
+*   **Nomad:** 2D Side-Scrolling Roguelite game using React for UI and Phaser.js for core gameplay.
 
 ➡️ **Discover more projects on my portfolio:** [**wsoltani.github.io/projects**](https://wsoltani.github.io/projects)
 
@@ -71,8 +76,8 @@ Dive deeper into what I do and get your questions answered:
 
 I'm always open to discussing new projects, opportunities, or just chatting about tech!
 
-*   **Portfolio:** [wsoltani.github.io](https://wsoltani.github.io/)
+*   **Contact Form:** [wsoltani.github.io/connect](https://wsoltani.github.io/connect)
 *   **AI Assistant:** [Chat with my AI about my background](https://wsoltani.github.io/ai-chat)
 *   **LinkedIn:** [linkedin.com/in/wsoltani](https://linkedin.com/in/wsoltani)
-*   **Email:** [wasoltani@gmail.com](mailto:wasoltani@gmail.com)
 *   **DEV Community:** [dev.to/wsoltani](https://dev.to/wsoltani)
+*   **Email:** [wasoltani@gmail.com](mailto:wasoltani@gmail.com)
