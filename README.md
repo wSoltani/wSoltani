@@ -1,72 +1,78 @@
 # Hi, I'm Wassim Soltani 👋
 
-<a href="https://linkedin.com/in/wsoltani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:wasoltani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://linkedin.com/in/wsoltani" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=plastic&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:wasoltani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=plastic&logo=Gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://wsoltani.github.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-Website-blue?style=plastic&logo=FirefoxBrowser&logoColor=white" alt="Portfolio Website"/></a>
+<a href="https://wsoltani.github.io/ai-chat" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Chat%20with%20my%20AI-Assistant-success?style=plastic&logo=OpenAI&logoColor=white" alt="Chat with my AI Assistant"/></a>
 
-Full-Stack Software Engineer with 5+ years of experience, passionate about building efficient, scalable, and user-centric solutions. I thrive on tackling complex problems, automating workflows, and leveraging modern technologies – especially AI/ML integration and cloud/edge platforms.
+I'm a Full-Stack Software Engineer with 5+ years of experience, passionate about building efficient, scalable, and user-centric solutions. I love tackling complex problems, automating workflows, and working with AI/ML, Cloud, and Edge technologies.
 
-My focus is on creating tools and applications that not only deliver features but also enhance user experience and operational efficiency, whether for end-users or internal teams.
-
----
-
-## 🚀 What I'm Currently Focused On
-
-*   **AI/ML Integration:** Building practical AI-powered features using platforms like Cloudflare AI (Workers AI, Vectorize) and AWS Bedrock. Exploring embeddings, semantic search, RAG, and generative models.
-*   **Serverless & Edge Computing:** Deeply involved with Cloudflare Workers for building performant APIs, backend logic, and AI tasks.
-*   **Developer Tooling & Automation:** Creating tools (like browser extensions, data scrapers) to streamline processes and improve productivity.
-*   **Full-Stack Development:** Delivering robust applications using modern stacks (React/TypeScript, Spring Boot/Java, Node.js).
+My goal is to create tools and applications that truly enhance user experience and operational efficiency.
 
 ---
 
-## 🛠️ Core Technologies & Skills
+## 🚀 Explore My Work & Chat with My AI
 
-*   **Languages:** Java, TypeScript/JavaScript (ES6+), Kotlin, Swift, Python
-*   **Frontend:** React, React Native, Angular, TailwindCSS, HTML5, CSS3, Browser Extensions
-*   **Backend:** Spring Boot, Node.js, Express.js, RESTful APIs, GraphQL
-*   **Cloud & DevOps:** AWS (esp. Bedrock), Cloudflare (Workers, AI, Vectorize), Docker, Kubernetes, CI/CD (Jenkins, Bitbucket Pipelines, TeamCity), Linux
-*   **Databases:** PostgreSQL, MySQL, MongoDB, Elasticsearch, Vectorize
-*   **AI/ML:** Cloudflare AI, AWS Bedrock, Vector Databases, Prompt Engineering
-*   **Tools:** Git, Jira, Postman, IntelliJ IDEA, VS Code
+Dive deeper into what I do and get your questions answered:
+
+*   **Explore my Portfolio:** [**wsoltani.github.io**](https://wsoltani.github.io/)
+*   **Chat with my AI Assistant:** Have questions about my experience or projects? [**Ask my AI!**](https://wsoltani.github.io/ai-chat)
 
 ---
 
-## ✨ Featured Projects
+## ✨ What I Focus On
+
+*   **AI/ML Integration:** Building practical AI-powered features (Semantic Search, RAG, Generative AI) using platforms like Cloudflare AI & AWS Bedrock.
+*   **Serverless & Edge Computing:** Leveraging Cloudflare Workers for performant APIs and AI tasks.
+*   **Full-Stack Development:** Crafting robust applications with modern stacks (React/TypeScript, Spring Boot/Java, Node.js).
+*   **Developer Tooling & Automation:** Creating tools like browser extensions to streamline processes.
+
+---
+
+## 🛠️ Key Technologies
+
+**Languages:** Java, TypeScript/JavaScript, Python
+**Frontend:** React, Angular, TailwindCSS, Browser Extensions
+**Backend:** Spring Boot, Node.js, RESTful APIs
+**Cloud & AI:** Cloudflare (Workers, AI, Vectorize), AWS (Bedrock)
+**Databases:** PostgreSQL, MongoDB, Elasticsearch, Vector Databases
+
+➡️ **See my full list of skills on my portfolio:** [**wsoltani.github.io/skills**](https://wsoltani.github.io/skills)
+
+---
+
+## 💡 Featured Projects
 
 ### ☁️ Quickplan - AI Meeting Notes Processor
-*   **Description:** An AI-powered tool that transforms raw meeting notes into structured formats (action plans, key points, summaries) instantly via optimized prompts.
-*   **Tech:** React (Vite/TS), Tailwind CSS, Cloudflare Workers, Cloudflare AI.
-*   **Status:** Live & Deployed.
-*   **Link:** [quickplan.blueblood.tech](https://quickplan.blueblood.tech/)
+*   AI-powered tool to instantly transform raw meeting notes into structured summaries, action plans, etc.
+*   **Tech:** React, Cloudflare Workers, Cloudflare AI
+*   **Explore:** [quickplan.blueblood.tech](https://quickplan.blueblood.tech/)
 
-### 🛒 Blueblood E-commerce Platform - Creator & Developer
-*   **Description:** Founded Blueblood and **created a highly customizable e-commerce platform** from the ground up (initially using JHipster/Spring Boot/Angular). Recently enhanced it with advanced features including:
-    *   **AI Workers (Cloudflare):** Implemented workers for semantic product search (using Vectorize embeddings), product recommendations, AI-driven chat support, and automated product description generation.
-    *   **Web Scraping Tool:** Developed a feature to automatically scrape and extract product specifications, reducing manual data entry for administrators.
-    *   **Infrastructure:** Added modules for automated DB backup/restore.
-*   **Tech:** Spring Boot, Angular, PostgreSQL, Elasticsearch, Docker, Cloudflare Workers, Vectorize.
-*   **Status:** Core platform built; ongoing development and feature enhancement for Blueblood (my software solutions company).
+### 🛒 AI-Enhanced E-commerce Platform
+*   Custom e-commerce solution with AI semantic search, recommendations, and automated content generation.
+*   **Tech:** Spring Boot, Angular, Cloudflare Workers & Vectorize, Elasticsearch
+*   **Status:** Ongoing development for my company, Blueblood.
 
-### 🚀 Ongoing Explorations
-*   **Ideakit:** Interactive AI assistant/workspace for brainstorming and visualizing foundational brand elements (logo concepts, color palettes).
-*   **Memlane:** Secure, private digital journal focused on user control and data privacy for logging memories and dreams.
-*   **Nomad:** 2D Side-Scrolling Roguelite game using React for UI and Phaser.js for core gameplay.
+➡️ **Discover more projects on my portfolio:** [**wsoltani.github.io/projects**](https://wsoltani.github.io/projects)
 
 ---
 
 ## 🔭 Experience Snapshot
 
-*   **Full-Stack Software Engineer** @ Vantage Labs LLC *(April 2022 - Present)*
-    *   Contributions to projects including CorrectEnglish, WriteAhead (AI feedback), and the ZebraPay browser extension.
-*   **Founder & Developer** @ Blueblood *(July 2024 - Present)*
-    *   Developing custom software solutions and tools for businesses, including the e-commerce platform mentioned above.
-*   **Lead Full-stack Developer/Engineer** @ Almaviva S.p.A *(Sept 2019 – March 2022)*
+*   **Full-Stack Software Engineer** @ Vantage Labs LLC *(Contract via Blueblood)*
+*   **Founder & Developer** @ Blueblood *(My Software Solutions Co.)*
+*   **Lead Full-stack Developer/Engineer** @ Almaviva S.p.A
 
-*(For more details, please visit my [portfolio](https://wsoltani.github.io))*
+➡️ **View my detailed experience on my portfolio:** [**wsoltani.github.io/experience**](https://wsoltani.github.io/experience)
 
 ---
 
-## 📫 Get In Touch
+## 📫 Let's Connect!
 
+I'm always open to discussing new projects, opportunities, or just chatting about tech!
+
+*   **Portfolio:** [wsoltani.github.io](https://wsoltani.github.io/)
+*   **AI Assistant:** [Chat with my AI about my background](https://wsoltani.github.io/ai-chat)
 *   **LinkedIn:** [linkedin.com/in/wsoltani](https://linkedin.com/in/wsoltani)
-*   **DEV:** [dev.to/wsoltani](https://dev.to/wsoltani)
 *   **Email:** [wasoltani@gmail.com](mailto:wasoltani@gmail.com)
+*   **DEV Community:** [dev.to/wsoltani](https://dev.to/wsoltani)
