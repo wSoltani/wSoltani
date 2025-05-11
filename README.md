@@ -1,9 +1,9 @@
 # Hi, I'm Wassim Soltani 👋
 
-<a href="https://linkedin.com/in/wsoltani" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=plastic&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:wasoltani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=plastic&logo=Gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://wsoltani.github.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-Website-blue?style=plastic&logo=FirefoxBrowser&logoColor=white" alt="Portfolio Website"/></a>
-<a href="https://wsoltani.github.io/ai-chat" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Chat%20with%20my%20AI-Assistant-success?style=plastic&logo=OpenAI&logoColor=white" alt="Chat with my AI Assistant"/></a>
+<a href="https://linkedin.com/in/wsoltani" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:wasoltani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=flat&logo=Gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://wsoltani.github.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-Website-blue?style=flat&logo=FirefoxBrowser&logoColor=white" alt="Portfolio Website"/></a>
+<a href="https://wsoltani.github.io/ai-chat" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Chat%20with%20my%20AI-Assistant-success?style=flat&logo=OpenAI&logoColor=white" alt="Chat with my AI Assistant"/></a>
 
 I'm a Full-Stack Software Engineer with 5+ years of experience, passionate about building efficient, scalable, and user-centric solutions. I love tackling complex problems, automating workflows, and working with AI/ML, Cloud, and Edge technologies.
 
