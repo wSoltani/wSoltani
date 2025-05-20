@@ -1,9 +1,10 @@
 # Hi, I'm Wassim Soltani 👋
 
-<a href="https://linkedin.com/in/wsoltani" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://linkedin.com/in/wsoltani" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://dev.to/wsoltani" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=flat&logo=dev.to&logoColor=white" alt="DEV.to"/></a>
 <a href="mailto:wasoltani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=flat&logo=Gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://wsoltani.github.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-Website-blue?style=flat&logo=FirefoxBrowser&logoColor=white" alt="Portfolio Website"/></a>
-<a href="https://wsoltani.github.io/ai-chat" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Chat%20with%20my%20AI-Assistant-success?style=flat&logo=OpenAI&logoColor=white" alt="Chat with my AI Assistant"/></a>
+<a href="https://wsoltani.github.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View-Portfolio-blue?style=flat&logo=FirefoxBrowser&logoColor=white" alt="Portfolio Website"/></a>
+<a href="https://wsoltani.github.io/ai-chat" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Chat%20with-AI%20Assistant-success?style=flat&logo=OpenAI&logoColor=white" alt="Chat with AI Assistant"/></a>
 
 I'm a Full-Stack Software Engineer with 5+ years of experience. Excited about working with AI/ML, Cloud, and Edge technologies.
 
@@ -30,6 +31,8 @@ Dive deeper into what I do and get your questions answered:
 ---
 
 ## 🛠️ Key Technologies
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wSoltani&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ➡️ **See my full list of skills on my portfolio:** [**wsoltani.github.io/skills**](https://wsoltani.github.io/skills)
 
