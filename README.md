@@ -5,7 +5,7 @@
 <a href="https://wsoltani.github.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-Website-blue?style=flat&logo=FirefoxBrowser&logoColor=white" alt="Portfolio Website"/></a>
 <a href="https://wsoltani.github.io/ai-chat" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Chat%20with%20my%20AI-Assistant-success?style=flat&logo=OpenAI&logoColor=white" alt="Chat with my AI Assistant"/></a>
 
-I'm a Full-Stack Software Engineer with 5+ years of experience, passionate about building efficient, scalable, and user-centric solutions. I love tackling complex problems, automating workflows, and working with AI/ML, Cloud, and Edge technologies.
+I'm a Full-Stack Software Engineer with 5+ years of experience, passionate about building efficient, scalable, and user-centric solutions. Excited about working with AI/ML, Cloud, and Edge technologies.
 
 My goal is to create tools and applications that truly enhance user experience and operational efficiency.
 
@@ -31,12 +31,6 @@ Dive deeper into what I do and get your questions answered:
 
 ## 🛠️ Key Technologies
 
-**Languages:** Java, TypeScript/JavaScript, Python
-**Frontend:** React, Angular, TailwindCSS, Browser Extensions
-**Backend:** Spring Boot, Node.js, RESTful APIs
-**Cloud & AI:** Cloudflare (Workers, AI, Vectorize), AWS (Bedrock)
-**Databases:** PostgreSQL, MongoDB, Elasticsearch, Vector Databases
-
 ➡️ **See my full list of skills on my portfolio:** [**wsoltani.github.io/skills**](https://wsoltani.github.io/skills)
 
 ---
@@ -53,18 +47,13 @@ Dive deeper into what I do and get your questions answered:
 *   **Tech:** Node.js, TypeScript, Amazon Q Developer, Next.js (for docs site).
 *   **Explore:** [Docs](https://qmims.vercel.app/) | [GitHub](https://github.com/wSoltani/qmims) | [npm](https://www.npmjs.com/package/qmims)
 
-### 🚀 Ongoing Explorations
-*   **Ideakit:** Interactive AI assistant/workspace for brainstorming and visualizing foundational brand elements (logo concepts, color palettes).
-*   **Memlane:** Secure, private digital journal focused on user control and data privacy for logging memories and dreams.
-*   **Nomad:** 2D Side-Scrolling Roguelite game using React for UI and Phaser.js for core gameplay.
-
 ➡️ **Discover more projects on my portfolio:** [**wsoltani.github.io/projects**](https://wsoltani.github.io/projects)
 
 ---
 
 ## 🔭 Experience Snapshot
 
-*   **Full-Stack Software Engineer** @ Vantage Labs LLC *(Contract via Blueblood)*
+*   **Full-Stack Software Engineer** @ Vantage Labs LLC *(Full-time Contract via Blueblood)*
 *   **Founder & Developer** @ Blueblood *(My Software Solutions Co.)*
 *   **Lead Full-stack Developer/Engineer** @ Almaviva S.p.A
 
@@ -78,6 +67,6 @@ I'm always open to discussing new projects, opportunities, or just chatting abou
 
 *   **Contact Form:** [wsoltani.github.io/connect](https://wsoltani.github.io/connect)
 *   **AI Assistant:** [Chat with my AI about my background](https://wsoltani.github.io/ai-chat)
-*   **LinkedIn:** [linkedin.com/in/wsoltani](https://linkedin.com/in/wsoltani)
+*   **LinkedIn:** [in/wsoltani](https://linkedin.com/in/wsoltani)
 *   **DEV Community:** [dev.to/wsoltani](https://dev.to/wsoltani)
 *   **Email:** [wasoltani@gmail.com](mailto:wasoltani@gmail.com)
