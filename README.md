@@ -32,7 +32,7 @@ Dive deeper into what I do and get your questions answered:
 
 ## 🛠️ Key Technologies
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wSoltani&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wSoltani&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ➡️ **See my full list of skills on my portfolio:** [**wsoltani.github.io/skills**](https://wsoltani.github.io/skills)
 
