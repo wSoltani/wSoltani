@@ -3,8 +3,8 @@
 <a href="https://linkedin.com/in/wsoltani" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://dev.to/wsoltani" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=flat&logo=dev.to&logoColor=white" alt="DEV.to"/></a>
 <a href="mailto:wasoltani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=flat&logo=Gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://wsoltani.github.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View-Portfolio-blue?style=flat&logo=FirefoxBrowser&logoColor=white" alt="Portfolio Website"/></a>
-<a href="https://wsoltani.github.io/ai-chat" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Chat%20with-AI%20Assistant-success?style=flat&logo=OpenAI&logoColor=white" alt="Chat with AI Assistant"/></a>
+<a href="https://wsoltani.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View-Portfolio-blue?style=flat&logo=FirefoxBrowser&logoColor=white" alt="Portfolio Website"/></a>
+<a href="https://wsoltani.com/ai-chat" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Chat%20with-AI%20Assistant-success?style=flat&logo=OpenAI&logoColor=white" alt="Chat with AI Assistant"/></a>
 
 I'm a Full-Stack Software Engineer with 5+ years of experience. Excited about working with AI/ML, Cloud, and Edge technologies.
 
@@ -16,8 +16,8 @@ My goal is to create tools and applications that truly enhance user experience a
 
 Dive deeper into what I do and get your questions answered:
 
-*   **Explore my Portfolio:** [**wsoltani.github.io**](https://wsoltani.github.io/)
-*   **Chat with my AI Assistant:** Have questions about my experience or projects? [**Ask my AI!**](https://wsoltani.github.io/ai-chat)
+*   **Explore my Portfolio:** [**wsoltani.com**](https://wsoltani.com/)
+*   **Chat with my AI Assistant:** Have questions about my experience or projects? [**Ask my AI!**](https://wsoltani.com/ai-chat)
 
 ---
 
@@ -34,7 +34,7 @@ Dive deeper into what I do and get your questions answered:
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wSoltani&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-➡️ **See my full list of skills on my portfolio:** [**wsoltani.github.io/skills**](https://wsoltani.github.io/skills)
+➡️ **See my full list of skills on my portfolio:** [**wsoltani.com/skills**](https://wsoltani.com/skills)
 
 ---
 
@@ -50,7 +50,7 @@ Dive deeper into what I do and get your questions answered:
 *   **Tech:** Node.js, TypeScript, Amazon Q Developer, Next.js (for docs site).
 *   **Explore:** [Docs](https://qmims.vercel.app/) | [GitHub](https://github.com/wSoltani/qmims) | [npm](https://www.npmjs.com/package/qmims)
 
-➡️ **Discover more projects on my portfolio:** [**wsoltani.github.io/projects**](https://wsoltani.github.io/projects)
+➡️ **Discover more projects on my portfolio:** [**wsoltani.com/projects**](https://wsoltani.com/projects)
 
 ---
 
@@ -60,7 +60,7 @@ Dive deeper into what I do and get your questions answered:
 *   **Founder & Developer** @ Blueblood *(My Software Solutions Co.)*
 *   **Lead Full-stack Developer/Engineer** @ Almaviva S.p.A
 
-➡️ **View my detailed experience on my portfolio:** [**wsoltani.github.io/experience**](https://wsoltani.github.io/experience)
+➡️ **View my detailed experience on my portfolio:** [**wsoltani.com/experience**](https://wsoltani.com/experience)
 
 ---
 
@@ -68,8 +68,8 @@ Dive deeper into what I do and get your questions answered:
 
 I'm always open to discussing new projects, opportunities, or just chatting about tech!
 
-*   **Contact Form:** [wsoltani.github.io/connect](https://wsoltani.github.io/connect)
-*   **AI Assistant:** [Chat with my AI about my background](https://wsoltani.github.io/ai-chat)
+*   **Contact Form:** [wsoltani.com/connect](https://wsoltani.com/connect)
+*   **AI Assistant:** [Chat with my AI about my background](https://wsoltani.com/ai-chat)
 *   **LinkedIn:** [in/wsoltani](https://linkedin.com/in/wsoltani)
 *   **DEV Community:** [dev.to/wsoltani](https://dev.to/wsoltani)
 *   **Email:** [wasoltani@gmail.com](mailto:wasoltani@gmail.com)
