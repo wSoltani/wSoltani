@@ -6,7 +6,7 @@
 <a href="https://wsoltani.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View-Portfolio-blue?style=flat&logo=FirefoxBrowser&logoColor=white" alt="Portfolio Website"/></a>
 <a href="https://wsoltani.com/ai-chat" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Chat%20with-AI%20Assistant-success?style=flat&logo=OpenAI&logoColor=white" alt="Chat with AI Assistant"/></a>
 
-I'm a Full-Stack Software Engineer with 5+ years of experience. Excited about working with AI/ML, Cloud, and Edge technologies.
+I'm a Full-Stack Software Engineer with 6+ years of experience. Excited about working with AI/ML, Cloud, and Edge technologies.
 
 My goal is to create tools and applications that truly enhance user experience and operational efficiency.
 
