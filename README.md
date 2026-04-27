@@ -1,75 +1,40 @@
-# Hi, I'm Wassim Soltani 👋
+# Wassim Soltani
 
-<a href="https://linkedin.com/in/wsoltani" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://dev.to/wsoltani" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=flat&logo=dev.to&logoColor=white" alt="DEV.to"/></a>
-<a href="mailto:wasoltani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=flat&logo=Gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://wsoltani.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/View-Portfolio-blue?style=flat&logo=FirefoxBrowser&logoColor=white" alt="Portfolio Website"/></a>
-<a href="https://wsoltani.com/ai-chat" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Chat%20with-AI%20Assistant-success?style=flat&logo=OpenAI&logoColor=white" alt="Chat with AI Assistant"/></a>
+Senior Full-Stack Engineer & Technical Lead based in Tunisia.
+6 years building products end-to-end, across companies, roles, and time zones.
 
-I'm a Full-Stack Software Engineer with 6+ years of experience. Excited about working with AI/ML, Cloud, and Edge technologies.
-
-My goal is to create tools and applications that truly enhance user experience and operational efficiency.
+Currently contracting full-time with Vantage Labs LLC (AI/NLP,
+Architecture & Development) while running
+Blueblood SUARL on the side for personal projects.
 
 ---
 
-## 🚀 Explore My Work & Chat with My AI
+## What I work with
 
-Dive deeper into what I do and get your questions answered:
+**Frontend:** React, Next.js, Astro, Angular, TypeScript, Tailwind CSS, shadcn/ui, Browser Extensions
 
-*   **Explore my Portfolio:** [**wsoltani.com**](https://wsoltani.com/)
-*   **Chat with my AI Assistant:** Have questions about my experience or projects? [**Ask my AI!**](https://wsoltani.com/ai-chat)
+**Backend & Edge:** Node.js, Spring Boot, Cloudflare Workers, Hono, REST APIs, Keycloak
 
----
+**Databases:** PostgreSQL, MongoDB, Cloudflare D1/Vectorize, Elasticsearch, Firebase
 
-## ✨ What I Focus On
+**AI & ML:** RAG, Vector Embeddings, AWS Bedrock, Cloudflare AI, Prompt Engineering, OCR, Semantic Search
 
-*   **AI/ML Integration:** Building practical AI-powered features (Semantic Search, RAG, Generative AI) using platforms like Cloudflare AI & AWS Bedrock.
-*   **Serverless & Edge Computing:** Leveraging Cloudflare Workers for performant APIs and AI tasks.
-*   **Full-Stack Development:** Crafting robust applications with modern stacks (React/TypeScript, Spring Boot/Java, Node.js).
-*   **Developer Tooling & Automation:** Creating tools like browser extensions to streamline processes.
+**Cloud & DevOps:** AWS, GCP, Azure, Vercel, Docker, CI/CD
 
 ---
 
-## 🛠️ Key Technologies
+## A few things I have shipped
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wSoltani&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
+**[Quickplan](https://quickplan.blueblood.tech)** — Edge-native tool that turns raw meeting notes into structured outputs in seconds. Cloudflare Workers + AI + Pages.
 
-➡️ **See my full list of skills on my portfolio:** [**wsoltani.com/skills**](https://wsoltani.com/skills)
+**[qmims](https://www.npmjs.com/package/qmims)** — Open source CLI that uses Amazon Q to generate and edit README files. Built because I was tired of projects with no docs. Published on npm.
 
----
-
-## 💡 Featured Projects
-
-### ☁️ Quickplan - AI Meeting Notes Processor
-*   AI-powered tool to instantly transform raw meeting notes into structured formats (action plans, key points, summaries) via optimized prompts.
-*   **Tech:** React (Vite/TS), Tailwind CSS, Cloudflare Workers, Cloudflare AI.
-*   **Explore:** [quickplan.blueblood.tech](https://quickplan.blueblood.tech/)
-
-### 📖 qmims - AI-Powered README Generator
-*   An AI CLI tool leveraging Amazon Q to auto-generate, update, and refine project READMEs. My first open-source npm package!
-*   **Tech:** Node.js, TypeScript, Amazon Q Developer, Next.js (for docs site).
-*   **Explore:** [Docs](https://qmims.vercel.app/) | [GitHub](https://github.com/wSoltani/qmims) | [npm](https://www.npmjs.com/package/qmims)
-
-➡️ **Discover more projects on my portfolio:** [**wsoltani.com/projects**](https://wsoltani.com/projects)
+**Void AI** — Multi-tenant AI sales platform built solo on Cloudflare. RAG engine, async ingestion pipeline, multimodal OCR extraction, full admin dashboard.
 
 ---
 
-## 🔭 Experience Snapshot
+## Let's talk
 
-*   **Full-Stack Software Engineer** @ Vantage Labs LLC *(Full-time Contract via Blueblood)*
-*   **Founder & Developer** @ Blueblood *(My Software Solutions Co.)*
-*   **Lead Full-stack Developer/Engineer** @ Almaviva S.p.A
+[wsoltani.com](https://wsoltani.com) · [linkedin.com/in/wsoltani](https://linkedin.com/in/wsoltani) · wasoltani@gmail.com
 
-➡️ **View my detailed experience on my portfolio:** [**wsoltani.com/experience**](https://wsoltani.com/experience)
-
----
-
-## 📫 Let's Connect!
-
-I'm always open to discussing new projects, opportunities, or just chatting about tech!
-
-*   **Contact Form:** [wsoltani.com/connect](https://wsoltani.com/connect)
-*   **AI Assistant:** [Chat with my AI about my background](https://wsoltani.com/ai-chat)
-*   **LinkedIn:** [in/wsoltani](https://linkedin.com/in/wsoltani)
-*   **DEV Community:** [dev.to/wsoltani](https://dev.to/wsoltani)
-*   **Email:** [wasoltani@gmail.com](mailto:wasoltani@gmail.com)
+> Curious about my background? There's an [AI assistant](https://wsoltani.com/ai-chat) on my site that knows quite a bit about my work.
