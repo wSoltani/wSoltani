@@ -1,7 +1,5 @@
-# Wassim Soltani
-
 Senior Full-Stack Engineer & Technical Lead based in Tunisia.
-6 years building products end-to-end, across companies, roles, and time zones.
+6 years building products end-to-end, across companies, roles, and timezones.
 
 Currently contracting full-time with Vantage Labs LLC (AI/NLP,
 Architecture & Development) while running
