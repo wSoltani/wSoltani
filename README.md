@@ -1,38 +1,12 @@
-Senior Full-Stack Engineer & Technical Lead based in Tunisia.
-6 years building products end-to-end, across companies, roles, and timezones.
+<img src="assets/header.svg" alt="Wassim Soltani, software engineer, Tunisia" width="100%">
 
-Currently contracting full-time with Vantage Labs LLC (AI/NLP,
-Architecture & Development) while running
-Blueblood SUARL on the side for personal projects.
+Hi, I'm Wassim, a software engineer from Tunisia. I mostly build things for clients, and sometimes for myself when something bugs me enough.
 
----
+Things I'm working on:
 
-## What I work with
+<a href="https://github.com/wSoltani/yapora"><img src="assets/yapora.svg" alt="Yapora: yap + aura. A Windows app that turns any image into an avatar that reacts to your voice, live in OBS or rendered to a video." width="100%"></a>
+<a href="https://github.com/wSoltani/syncify"><img src="assets/syncify.svg" alt="Syncify: a Spicetify extension that backs up your Marketplace extensions, themes and snippets, and restores them when Spotify breaks." width="100%"></a>
+<img src="assets/soon-app.svg" alt="A desktop app, not out yet" width="100%">
+<img src="assets/soon-ext.svg" alt="A browser extension, also not out yet" width="100%">
 
-**Frontend:** React, Next.js, Astro, Angular, TypeScript, Tailwind CSS, shadcn/ui, Browser Extensions
-
-**Backend & Edge:** Node.js, Spring Boot, Cloudflare Workers, Hono, REST APIs, Keycloak
-
-**Databases:** PostgreSQL, MongoDB, Cloudflare D1/Vectorize, Elasticsearch, Firebase
-
-**AI & ML:** RAG, Vector Embeddings, AWS Bedrock, Cloudflare AI, Prompt Engineering, OCR, Semantic Search
-
-**Cloud & DevOps:** AWS, GCP, Azure, Vercel, Docker, CI/CD
-
----
-
-## A few things I have shipped
-
-**[Quickplan](https://quickplan.blueblood.tech)** — Edge-native tool that turns raw meeting notes into structured outputs in seconds. Cloudflare Workers + AI + Pages.
-
-**[qmims](https://www.npmjs.com/package/qmims)** — Open source CLI that uses Amazon Q to generate and edit README files. Built because I was tired of projects with no docs. Published on npm.
-
-**Void AI** — Multi-tenant AI sales platform built solo on Cloudflare. RAG engine, async ingestion pipeline, multimodal OCR extraction, full admin dashboard.
-
----
-
-## Let's talk
-
-[wsoltani.com](https://wsoltani.com) · [linkedin.com/in/wsoltani](https://linkedin.com/in/wsoltani) · wasoltani@gmail.com
-
-> Curious about my background? There's an [AI assistant](https://wsoltani.com/ai-chat) on my site that knows quite a bit about my work.
+[wsoltani.com](https://wsoltani.com) · [LinkedIn](https://linkedin.com/in/wsoltani)
