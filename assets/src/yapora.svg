@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 170" width="880" height="170">
+  <style>text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }</style>
+  <defs>
+    <clipPath id="card"><rect x="0.5" y="0.5" width="879" height="169" rx="14" /></clipPath>
+  </defs>
+  <rect x="0.5" y="0.5" width="879" height="169" rx="14" fill="#0b0710" stroke="#3a2442" />
+  <rect width="6" height="170" fill="#94288c" clip-path="url(#card)" />
+
+  <text x="196" y="52" font-size="30" font-weight="700" fill="#ffffff">Yapora</text>
+  <text x="196" y="80" font-size="18" fill="#c9a6d4">yap + aura · windows app</text>
+
+  <g font-size="19" fill="#d6d0da">
+    <text x="196" y="118">Turns any image into an avatar that reacts to your</text>
+    <text x="196" y="144">voice. Live in OBS, or render it to a video.</text>
+  </g>
+</svg>
